@@ -2,6 +2,12 @@ nav {
 	background-color: rgb(255, 67, 1);
 }
 
-body {
+p {
 	text-align: center;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
