@@ -1,7 +1,7 @@
 $(document).ready(function(){
-	$("#aw").hide();
+	$(".aw").hide();
 	
 	$("#banAw").click(function(){
-		$("#aw").fadeIn("slow");
+		$(".aw").fadeIn("slow");
 	});
 });
